@@ -13,7 +13,7 @@ html {
 header {
   box-sizing: border-box;
   padding-top: 70px;
-  border: 15px;
+  border: 40px;
   text-align: center;
   margin-bottom: unset;
 }
@@ -33,12 +33,12 @@ p.subtitle {
   color: #7D7D7D;
   font-size: 36px;
   line-height: 1.1;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 .container {
   width: 90%;
-  max-width: 35rem;
+  max-width: 39rem;
   padding-top: 60px;
   margin: 0 auto;
 }
